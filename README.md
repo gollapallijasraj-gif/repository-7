@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>All main levels in geometry dash and coin routes</title>
+<style>
+ body {
+ background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*W3vGzYDQsJiDJrAEK-_lPA.jpeg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center center;
+ background-attachment: fixed; 
+ -webkit-text-stroke: 1px red;
+ }
+ h1 {
+  font-size: 40px;
+     }
+ h2 {
+  font-size: 30px;
+     }
+ h3 {
+  font-size: 20px;
+     } 
+</style>
+</head>
+<body>
+<h1><u>All main levels in geometry dash and coin routes</u></h1>
+<h2><p>There are many levels in Geometry Dash but in this website there will be levels created by Robtop, the creator geometry dash,and their secret coin routes, so let's go through them:(to download the official game click on <a href="https://www.geometrydash.com/">Geometry Dash-official website</a>)</p></h2>
+<h2><p><u>Stereo Madness:</u>the easiest level in GD (geometry dash) it consists of cube and ship(click and hold to fly up and release to fly down) gameplay (mostly cube). The 3 coins in this level are in 50%, 74%, and 98%. the first one is after the first ship part, jump on the first column but don't click on the 2nd column to go down the 3rd column obtain 1st coin, the 2nd one's where after you pass the 3 slabs click to go up the structure and then click on the last block to get the 2nd coin and to dodge the spike, the 3rd coin's in the 2nd ship part where you have to go into a secret path to the 3rd coin at the end .</p>
+
+<p><u>Back On Track:</u>this level's an easy rating. it consists of the cube and ship (mostly cube again).The 3 coins in this level are in 42%, 55%, and 84%. the first one's where you let yourself slide on the 2nd slab to hit a hidden blue pad to get it, the 2nd one's in which you go through fake blocks in the ship part, the 3rd one's where you again let yourself slide on the 2nd slab to hit some blocks which prevent you from dying and hit the yellow pad to get back up .</p>
+
+<p><u>Polargeist:</u>this level's a normal rating. it consists of cube and ship (just like before) the 3 coins in this level are in 44%, 63%, 77%. The first one's in the ship part fly up at 43% to get the first coin and after collecting it fly down to dodge the floating blocks, the 2nd one's where after the 2nd spike don't click and after getting down there immediately click to not die and then after hitting the jumpad click the yellow orb to not die again, and the 3rd coin's wher you have to click very late to hit the hidden blue jumpad and then click the yellow orb up there to get all 3 coins.</p>
+
+<p><u>Dry Out:</u>this one's a normal rating. it consists of the cube and ship (again mostly cube) the 3 coins in this levels are in 29%, 61%, 75%. The 1st one's in the cube where after the steps with the spikes after the first platform let yourself slide down and then after collecting the coin hold the jump button to pass the spikes and hit the yellow pad, the 2nd one's in the cube part where 2 pillar area, keep holding after the 2nd pillar to get above the spikes and collect the coin, the 3rd one's in the ship part where after the 3rd spikey box go above the 4th one the get all 3 coins.</p>
+
+<p><u>Base after Base:</u>this one's a hard rating level it consists of the cube and ship (~50/50 cube and ship)the 3 coins in this level are in 22%, 47%, 67%(don't you dare say it). The 1st coin's in the cube part where after the double spike on the platform don't jump to go into a hidden passage alternatively, you can jump late on the double spike on top to miss the first pad to collect the coin, the 2nd one's in the cube part where after the 2 ceiling spikes jump and jump late on the spike to collect the 2nd coin, the 3rd coin's in the shp part where after the first 3 spikeshold to go above and keep holding to collect all 3 coins.</p>
+
+<p><u>Can't Let Go:</u>this one's also a hard rating level it consists of the cube and ship (mostly cube)the 3 coins in this level are in 26%, 62%, 76%. The 1st coin's in this level is in the cube part where after the first platform don't click to collect the first coin, the 2nd coin's in the ship part where in the first floating spikes, go up and collect the 2nd coin, the 3rd coin's tricky and you might get a heart attack, in the upside cube, jump very late on the spike to get all 3 coins.</p>
+
+<p><u>Jumper:</u>this one's a harder rating level it consists of the cube and ship(~50/50)the 3 coins in this level are in 36%, 43%, 68%. The 1st coin's in the ship part where after the 1st pillar go down through a fake block, the 2nd one's in the cube part where on the betweenthe 2 platforms jump and jump again on the 3 block floating thing to collect the 2nd coin, the 3rd coin's in the ship part where go down under the floating spike to collect all 3 coins.</p>
+
+<p><u>Time Machine:</u>this one's a harder rating level it consists of the cube and ship (mostly cube)the 3 coins in this level are in 12%, 37%, 69%. the 1st coin's in the cube where in the part with the weird sturcture on the first one jump to collect the 1st coin, the 2nd coin's in the ship part where in the first floating spike do a ~0.5 second straight fly to collect the 2nd coin, the 3rd coin's in the cube part where just before the blue portal don't jump and click the 2 pink orbs to collect all 3 coins.</p>
+
+<p><u>Cycles:</u>this one's also a harder rating level, it consists of the cube, ball, ship (~70:15:15) the 3 coins in this level are in 42%, 63%, 87%. the 1st coin's in the ball part where after the 1st 3 rectangles with spikes stay up and at the right moment click to switch gravity to collect the 1st coin, the 2nd coin's in the ship part where after the upsidedown portal go up (to your ship its down)and collect the 2nd coin, the 3rd one's in the ball part where after the platform after the platform with spikes underneath click  and click again to collect all 3 coins.</p>
+
+<p><u>XStep:</u>this one's is our 1st insane rating level level(don't get confused by the community saying its a harder rating level cuz they perceive it as a harder level) so you should time your clicks preceisely, it consists of the cube, ship, and ball (~70:20:15)the 3 coins in this level are in 21%, 53%, 60%. the first coin's in the ship part where after the first spiked slope go slightly down after the 3rd spike not too far down to die to collect the 1st coin, the 2nd coin's in the 2nd ship part where after the bottom blue pad with the 1st spike pillar thing, go down into fake blocks to collect 2nd coin, the 3rd coin's in the cube part where after the floating thing jump early on the 1 1/2 spike and click the blue orb to collect all 3 coins.</p>
+
+<p><u>Clutterfunk:</u>this one's actully an insane rating level(very unbalanced you have to be serious now), it consists of cube, ship, ball which a portion of your gameplay will be mini (~80:5:15) the 3 coins in this level are tricky 31%, 65%, 86%. the 1st coin's in the ship part (similar to the 3rd coin route in dry out)
+after 4th spikey box go up to collect the 1st coin, the 2nd coin's in the ship part where below the upside down portal go into the passage with no outline to collect the 2nd coin, the 3rd coin route is in the mini cube where after the 1st structure after the yellow jumpad don't click the 2nd yellow orb and collect the coin and hit the blue orb to collect all 3 coins.</p>
+
+<p><u>Theory of Everthing:</u>this one's also an insane rating level, it consists of the cube, ship, UFO, ball(~30:30:20:20) which a portion will be mini (exept for UFO) the 3 coin in this level are in 30% ,56%, 84%. the 1st coin's in the UFO part where between the 2 sawblades there is a pillar, go through that pillar to collect the 1st coin, the 2nd one's in the ship part where after the 3 spikey boxes, go under the 4th one to collect the 2nd coin, the 3rd coin's the cube where on the 1st platform skip the yellow pad by jumping over it to collect all 3 coins.</p>
+
+<p><u>Electroman Adventures:</u>this one's an insane rating level (the community calls it a harder level), it consists of cube, ship, ball, UFO with each one having a mini section (~30:30:30:10) the 3 coins in this level are in 12%, 19%, 91%. the 1st coin's tricky in the cube at 9% disobey the arrow and go up and hold for 1 sec. to dodge the spikes (just like the swag route of time machine starting) and at the block with  the bluepad jump and hit the yellow orb to get the first coin(don't worry about crashing into the transparent blocks), the 2nd coin's in the ship part where after the 1st spikey slope, go under the 2nd one to get the 2nd coin, the 3rd one's in the ball part where after the 2nd spike pillar stay down and switch gravity accordingly to dodge the spikes and collect all 3 coins.</p>
+
+<p><u>Clubstep:</u>this one's our 1st DEMON level you gotta ULTRA(5x)lockin, it consists of cube, ship, ball, UFO (~30:50:10:10) the 3 coins in this level are in 9%, 71%, 96%. the 1st one's in the cube part where click the 2nd yellow orb (some of them are fakes to deceive you) and then click the yellow and blue orb to collect the first coin, the 2nd one's in the mini ship part where after the 2nd monster with pink eyes go up after the UFO portal into a secret tunnel and click accordingly to dodge the spikes that are visible once to collect the 2nd coin, the 3rd coin's in the mini ship part where go under the 1st 2 monsters to collect all 3 coins.</p>
+
+<p><u>Electrodynamix:</u>this one's an insane raing level (trust me, i'm follow the order even i think its weird that robtop sorted them based on which level was older, not on difficulties),it consists of the cube, ship, UFO, ball (~50:30:10:10) the 3 coins in this level are in 40%, 57%, 85%. ,the 1st one's in the UFO part where squeeze between the 2 sawblades to get the 1st coin the 2nd coin's in the cube part where after the ball section after the 2nd medium-sized pit, don't click the yellow orb to go into a hidden passage to get the 2nd coin, the 3rd one's in the cube, where don't click on the blue orb and click at the right moment to hit the blue pad and collect all 3 coins.</p>
+
+<p><u>Hexagon Force:</u>this one's an insane raing level, it consists of the cube, ship, ball, UFO (the intro to duel portals, if you don't know duel portal are portals that makes 2 of your icons(doplgangers) play at the same time one will be upside down and vice versa) the 3 coins in this level are in 22%, 72%, 98%. the 1st coin is in the ball part where after the 4th platform and on the 5th one click to switch gravity to hit the yellow pad and click the yellow orb to collect the 1st coin, the 2nd one's in the ship part where after the 3rd diamond, go under the 4th one to collect the 2nd coin, the 3rd one's in the ship part where after the small spikey slope, go under the one after it to collect all 3 coins.</p>
+
+<p><u>Blast Processing:</u>this one's a harder rating level, it consists of the cube, wave, ship, ball, UFO. the 3 coins in this level are in 52%, 69%, 86%. the first coin's in the dual wave part where after the 1st 2 diamonds, go inside the 3rd one to collect the 1st coin, the 2nd coin's in the UFO part where in the 1st clubstep monster (yes there are clubstep monsters outside clubstep) go inside its mouth to collect the 2nd coin, the 3rd coin's in the ship part where after the 1st 2 cubes, go below the 3rd one to collect all 3 coins.</p>
+
+<p><u>Theory of Everything 2:</u>this one's our 2nd demon level(its the 2nd version of theory of everthing) and it has a crap tonna invisible stuff, it consists of cube, ship, UFO, ball, wave. the 3 coins in this level are in 13%, 65%, 84%. the 1st coin is in the ship part where just go straight to get the 1st coin its that simple, the 2nd coin's in the wave part where after the 2nd straight fly thingy, go down the 1st slope (the part without a white outline) and get out the same way to collect the 2nd coin, the 3rd coin's in the cube where immediately after the ship part click on the yellow orb with the 'X' and jump to collect all 3 coins.</p>
+
+ <p><u>Geometrical Dominator:</u>this one's a harder rating level also contains invisible stuff, it consists of cube, robot, ship, wave, UFO. the coins in this level are in 17%, 47%, 92%. the 1st coin's in the robot part where after the gravity portal where you have to skip the yellow orb and the gravity portal to collect the 1st coin and don't hit the pink orb to hit the blue pad, the 2nd one's in the 2nd robot part where immediately after you land on the 2nd pillar click and hold to collect the 2nd coin, the 3rd coin's in the ship part where after the 1st moving structure, go underwater under the easier path to collect all 3 coins.</p>
+
+<p><u>Deadlocked:</u>this one's our 3rd and final demon level and is the hardest main level, it consists of cube, robot, wave, ship, ball, UFO. the 3 coins in this level are in 43%, 53%, 66%. the 1st one's in the cube where after the ball part on the 1st pillar just jump and collect the 1st coin, the 2nd one's in the robot part where sfter the yellow orb don't click to go into a hidden passage and jump and hold for ~1 sec not too much to hit the wall and not too little to fall into the acid to collect the 2nd coin, the 3rd one's in the UFO part(the one with laser shooting monsters) go between the 2nd and 3rd ninja stars and just before you hit the laser click and don't stay up after collect the coin to to get all coins.</p>
+
+<p><u>Fingerdash:</u>this one's an insane rating level (and we're almost there just one more level), it consists of cube, spider, ship, robot, wave, UFO, the 3 coins in this level are in 42%, 55%, 79%. the 1st coin's in the spider part where after the 2nd pillar while being upside down double-click to get the 1st coin, the 2nd one's in the ship part where straight fly between the 3 firebars to get the 2nd coin, the 3rd one's in the wave where if you collect all pickup coins you can get the coin in the next portal.</p>
+
+<p><u>Dash:</u>this one's also an insane rating level, it consists of cube, spider, swingcopter, ball, ship, robot. the 3 coins in this level are in 13%, 37%, 64%. the 1st one's in the cube part where you have to click the last cube (with a black skull) to get the 1st coin, the 2nd one's in the swing(short for swingcopter) where after the 1st bump on the 2nd bump, fly straight up, and exit from the 2 electro balls which are not connected to collect the 2nd coin, the 3rd one's in the cube part where when your in the particle state click 3 times to summon the coin from the dark diemention to collect all coins.</p></h2>
+ 
+<h1><i>by Gollapalli Jasraj</h1><i>
+</body>
+</html>
